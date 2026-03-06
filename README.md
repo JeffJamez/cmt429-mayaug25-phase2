@@ -3,7 +3,7 @@ The "demo.mp4" demostrates the flow of how the analysis works
 
 # 🌿 Plant Disease Classification Using Machine Learning
 
-**Authors:** Wangeci Njiru, Abayo Otieno & Kigotho James
+**Authors:** Wangeci Njiru, Abayo Otieno & Jeff Kigotho
 
 A machine learning pipeline for automated detection and classification of plant leaf diseases using image analysis and multiple classification algorithms implemented in R.
 
@@ -201,7 +201,7 @@ After running the pipeline, the following files are saved to your working direct
 |---|---|
 | **Wangeci Njiru** | Co-first author |
 | **Abayo Otieno** | Co-first author |
-| **Kigotho James** | Co-first author |
+| **Jeff Kigotho** | Co-first author |
 
 ---
 
